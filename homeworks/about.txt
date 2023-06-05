@@ -1,1 +1,5 @@
-
+/*
+  only has a portion of my hw assignments posted
+  in addition the names of the hw assignments do not match the files
+  this should make it difficult for anyone to use these materials to cheat
+*/
